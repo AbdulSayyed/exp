@@ -19,8 +19,7 @@ A line underneath the heading is always left to make it clear and as per markdow
 
 ### [A line](/https://github.com/AbdulSayyed.github.io)
 
-The above heading when rendered only a link is provided not the ULR. It can also be wriiten in this [way][1]. Here the word [way] is a hyper link pointing to a ulr that is denoted by the `[1]` at the bottom of this page.
-
+- The above heading when rendered only a link is provided not the ULR. It can also be written in this [way][1]. Here the word [way] is a hyper link pointing to a ulr that is denoted by the `[1]` at the bottom of this page.
 
 ---
 
