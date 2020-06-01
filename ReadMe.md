@@ -3,7 +3,7 @@
 1. This is a line one
 2. This is second line
 3. This is the third line and so forth.
-4. In markdown these are ordered list. Below is an example of unorderd list.
+4. In markdown these are ordered list. Below is an example of unordered list.
    - this is also a list item.
    - so is this and so on.
    - second
